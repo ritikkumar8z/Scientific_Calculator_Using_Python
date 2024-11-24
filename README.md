@@ -2,7 +2,7 @@
 
 ### A simple, command-line-based scientific calculator built with Python. This calculator performs basic arithmetic operations as well as scientific functions like trigonometric calculations, logarithmic functions, and exponentiation.
  
-## Features
+## Features 
 
 - **Basic Arithmetic**: Addition, subtraction, multiplication, division.
 - **Scientific Functions**:
