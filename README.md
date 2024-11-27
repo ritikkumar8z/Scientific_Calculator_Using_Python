@@ -5,7 +5,7 @@
 ## Features   
  
 - **Basic Arithmetic**: Addition, subtraction, multiplication, division.
-- **Scientific Functions**:
+- **Scientific Functions**: 
   - Power and square root
   - Logarithm (with customizable base)
   - Trigonometric functions (sine, cosine, tangent)
