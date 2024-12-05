@@ -76,7 +76,7 @@ This project is open-source and available under the MIT License.
 This project uses Python’s built-in math library for scientific functions.
 
 ## Happy calculating!
-
+ 
  
 
 This `README` covers the main features, usage instructions, and examples, making it eas
