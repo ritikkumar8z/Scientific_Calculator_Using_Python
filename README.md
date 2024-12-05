@@ -10,7 +10,7 @@
   - Logarithm (with customizable base)
   - Trigonometric functions (sine, cosine, tangent)
 
-## Usage
+## Usage 
 
 ### Prerequisites
 
