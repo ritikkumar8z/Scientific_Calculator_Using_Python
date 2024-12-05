@@ -22,7 +22,7 @@
 2. Open a terminal or command prompt in the project directory.
 3. Run the calculator with:
 
-   ```bash
+   ```bash 
    python scientific_calculator.py
 
 
